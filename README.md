@@ -9,13 +9,20 @@ High-Performance Systems Engineer with 11+ years of expertise architecting deter
 ---
 
 # CORE COMPETENCIES & TECHNICAL STACK
-  Languages & Paradigms: C++11–20, Python, x86-64 Assembly, Template Metaprogramming, Data-Oriented Design (DOD)
-  Low-Level Systems: Move semantics, Object lifetime, Custom arenas/allocators, ABI stability, Zero-copy parsing, Constexpr
-  CPU & Microarchitecture: L1–L3 cache optimization, Cache line alignment, TLB efficiency, Branch prediction, Out-of-order execution, SIMD (AVX2/AVX-512), NUMA topology, False sharing mitigation
-  Linux Kernel & Systems: System calls, Real-Time CFS scheduling, CPU pinning & affinity, `isolcpus`, Huge Pages (`hugetlbfs`), `mmap`, `epoll`, `perf` profiling, Hardware performance counters
-  Concurrency & Synchronization: Spinlocks, Compare-And-Swap (CAS), Acquire-Release & Relaxed memory ordering, SPSC/MPSC/MPMC lock-free queues, Wait-free algorithms, ABA mitigation
-  Networking & I/O: TCP/UDP tuning, Multicast feeds, NIC offloading, RSS, Polling vs. Interrupts, Kernel bypass, DPDK
-  Quantitative Finance Domain: Limit Order Books (LOB), Price-Time priority matching, Market data feed handlers, Order execution gateways, FIX/binary protocols, Hardware risk checks, Tail latency reduction
+  Languages & Paradigms: 
+  C++11–20, Python, x86-64 Assembly, Template Metaprogramming, Data-Oriented Design (DOD)
+  Low-Level Systems: 
+  Move semantics, Object lifetime, Custom arenas/allocators, ABI stability, Zero-copy parsing, Constexpr
+  CPU & Microarchitecture: 
+  L1–L3 cache optimization, Cache line alignment, TLB efficiency, Branch prediction, Out-of-order execution, SIMD (AVX2/AVX-512), NUMA topology, False sharing mitigation
+  Linux Kernel & Systems: 
+  System calls, Real-Time CFS scheduling, CPU pinning & affinity, `isolcpus`, Huge Pages (`hugetlbfs`), `mmap`, `epoll`, `perf` profiling, Hardware performance counters
+  Concurrency & Synchronization: 
+  Spinlocks, Compare-And-Swap (CAS), Acquire-Release & Relaxed memory ordering, SPSC/MPSC/MPMC lock-free queues, Wait-free algorithms, ABA mitigation
+  Networking & I/O: 
+  TCP/UDP tuning, Multicast feeds, NIC offloading, RSS, Polling vs. Interrupts, Kernel bypass, DPDK
+  Quantitative Finance Domain: 
+  Limit Order Books (LOB), Price-Time priority matching, Market data feed handlers, Order execution gateways, FIX/binary protocols, Hardware risk checks, Tail latency reduction
 
 ---
 
