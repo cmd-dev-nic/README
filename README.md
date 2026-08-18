@@ -24,21 +24,21 @@ High-Performance Systems Engineer with **11+ years** of expertise architecting d
 ## 💼 Professional Experience
 
 ### Core Systems Engineer (Engine & Runtime)
-*Freelance | Mumbai | January 2025 – Present (1.5 Years)*
+*Freelance | Mumbai | 2025 – Present (1.5 Years)*
 * Engineered high-throughput, deterministic core sub-systems for proprietary multi-threaded execution runtimes, translating real-time processing constraints directly to ultra-low-latency financial architecture requirements.
 * Designed and implemented custom arena and pool memory allocators to completely eliminate dynamic heap allocation overheads (`malloc`/`free`) in hot execution loops, drastically reducing cache misses and garbage-collection-style pauses.
 * Applied Data-Oriented Design (DOD) principles, leveraging template metaprogramming and aggressive function inlining to maximize Instruction Cache (ICache) locality and minimize instruction footprint.
 * Profiled core event loops utilizing hardware performance counters (`perf`, `perf stat`), successfully eliminating pipeline stalls, branch mispredictions, and cache line bounces.
 
 ### High-Performance Systems & Graphics Pipeline Engineer
-*Freelance | Mumbai | January 2020 – December 2024 (5 Years)*
+*Freelance | Mumbai | 2020 – 2024 (5 Years)*
 * Developed deterministic, high-frequency compute and data processing pipelines operating under strict sub-millisecond deterministic budgets (sub-11ms end-to-end, sub-2ms compute passes).
 * Maximized instruction throughput of parallel hardware components using explicit SIMD vectorization (AVX-512) and low-level thread-to-hardware synchronisation primitives.
 * Managed complex resource lifecycles, memory mapping (`mmap`), and streaming allocations to eliminate latency jitter, mirroring the deterministic execution requirements of high-frequency order gateways.
 * Analysed hardware utilization bottlenecks, resolving Translation Lookaside Buffer (TLB) misses and optimizing memory layouts to prevent false sharing across multi-core execution threads.
 
 ### Real-Time Distributed Systems Engineer
-*Freelance | Mumbai | January 2015 – December 2019 (5 Years)*
+*Freelance | Mumbai | 2015 – 2019 (5 Years)*
 * Built robust, multi-threaded simulation loops and high-throughput networking layers handling high-frequency state synchronization over custom binary transport streams.
 * Implemented lock-free Single-Producer Single-Consumer (SPSC) and Multi-Producer Single-Consumer (MPSC) data structures utilizing CAS operations and strict memory ordering (acquire-release semantics) for ultra-low-latency cross-thread event dispatch.
 * Tuned Linux kernel affinity and thread pinning (`isolcpus`, `pthread_setaffinity_np`) to isolate core execution loops from OS jitter, context switches, and hardware interrupt interference.
